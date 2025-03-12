@@ -13,7 +13,8 @@ O Modelo Espiral é uma metodologia iterativa que combina elementos do Modelo em
 ## 💪 Metodologias Ágeis  
 As metodologias ágeis são uma forma de acelerar entregas de um determinado projeto. Ela consiste no fracionamento de entregas para o cliente final em ciclos menores. Com isso, eventuais problemas podem ser corrigidos mais rapidamente e os planejamentos serem revistos. Apesar de sua aplicação ter iniciado e ser muito comum em equipes de desenvolvimento, a estratégia pode ser utilizada em qualquer tipo de projeto.
 
-Existem 12 tipos de metodologias ágeis sendo elas:
+### 📖 Manifesto Ágil  
+O Manifesto Ágil é um conjunto de princípios e valores que orienta o desenvolvimento de software. Ele surgiu em 2001 e revolucionou a forma como empresas e profissionais elaboram e gerenciam projetos. 
 - Valor
 - Flexibilidade
 - Frequência
@@ -26,9 +27,6 @@ Existem 12 tipos de metodologias ágeis sendo elas:
 - Simplicidade
 - Organização
 - Autoavaliação
-
-### 📖 Manifesto Ágil  
-O Manifesto Ágil é um conjunto de princípios e valores que orienta o desenvolvimento de software. Ele surgiu em 2001 e revolucionou a forma como empresas e profissionais elaboram e gerenciam projetos. 
 
 ## 🏆 Scrum  
 Scrum é uma metodologia ágil de gestão de projetos que ajuda equipes a trabalharem de forma colaborativa para atingir um objetivo em comum.
