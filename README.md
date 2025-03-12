@@ -4,10 +4,11 @@
 As metodologias de desenvolvimento de software são importantes porque orientam a criação de softwares de forma organizada, eficiente e de qualidade. Elas também ajudam a evitar problemas, atrasos e erros. 
 
 ## 📖 Metodologias Tradicionais  
-### 🛠️ Cascata  O modelo em cascata é uma **metodologia de gestão de projetos que divide o trabalho em fases sequenciais**. É uma abordagem linear, onde cada etapa depende da anterior para avançar. 
+### 🛠️ Cascata  
+O modelo em cascata é uma **metodologia de gestão de projetos que divide o trabalho em fases sequenciais**. É uma abordagem linear, onde cada etapa depende da anterior para avançar. 
 
 ### 🌐 Espiral  
-(Explique o modelo Espiral e como ele funciona.)
+O Modelo Espiral é uma metodologia iterativa que combina elementos do Modelo em Cascata e técnicas de prototipação. Ele consiste em várias iterações em forma de espiral, onde cada iteração envolve a identificação de riscos, desenvolvimento, testes e avaliação. O Modelo Espiral é adequado para projetos complexos, onde a análise de riscos é crucial.
 
 ## 💪 Metodologias Ágeis  
 As metodologias ágeis são uma forma de acelerar entregas de um determinado projeto. Ela consiste no fracionamento de entregas para o cliente final em ciclos menores. Com isso, eventuais problemas podem ser corrigidos mais rapidamente e os planejamentos serem revistos. Apesar de sua aplicação ter iniciado e ser muito comum em equipes de desenvolvimento, a estratégia pode ser utilizada em qualquer tipo de projeto.
@@ -29,15 +30,30 @@ São ciclos de desenvolvimento que se repetem.
 ### 💬 Cerimônias  
 As reuniões do Scrum acontecem quando o mestre do Scrum, o proprietário do produto e a equipe de desenvolvimento se reúnem para planejar e discutir o trabalho em andamento, coletar feedback e muito mais.
 O scrum têm quatro cerimônias, sendo elas: Reunião de planejamento do sprint, daily scrum, revisão do sprint e retrospctiva do sprint.
+
 ## 🎯 Kanban  
-(Explique o funcionamento do Kanban e sua aplicação.)
+Kanban é um método baseado no Pensamento Lean e no Pensamento Ágil, voltado a melhorar a execução dos serviços, entregar valor de maneira constante e evoluir continuamente o sistema de produção, através da resolução sistemática de problemas.
 
 ## 🚀 Extreme Programming (XP)  
-(Quais são os princípios do XP?)
+Extreme Programming (XP) é um método ágil criado no final da década de 90 para desenvolvimento de software. É uma metodologia que tem como objetivo criar sistemas com alta qualidade, com base em uma interação próxima com os clientes, testagem constante e ciclos de desenvolvimento curtos.
 
 ## 🔧 Ferramentas de Gestão de Desenvolvimento  
 ### 💪 GitHub / GitLab  
-(Descreva o uso dessas ferramentas no gerenciamento de projetos.)
+Ambos são plataformas de hospedagm de código-fonte, fornecendo repositórios com acesso público e privado, permitindo o acesso de várias pessoas e auxiliando no progresso de estudo e carreira profissional. 
+**Semelhanças:** 
+- Ambos oferecem planos gratuitos e pagos
+- Ambos oferecem repositórios ilimitados
+- Ambos oferecem integrações com ferramentas de terceiros
+- Ambos oferecem ferramentas de gerenciamento de projetos
+- Ambos oferecem rastreadores de problemas
+- Ambos oferecem suporte a projetos e códigos de código aberto
+
+**Diferenças:**
+- O GitHub é um site onde os usuários podem trocar e acessar códigos de forma livre e pública. 
+- O GitLab é uma solução de compartilhamento de código e controle de versão disponível exclusivamente para equipes de desenvolvimento. 
+- O GitLab oferece recursos mais avançados de gerenciamento de projetos, como pesos de problemas, gráficos de burn-down e roteiros. 
+- O GitHub permite a criação de branchs privadas apenas nos planos pagos, enquanto o GitLab permite a criação de branchs privadas gratuitamente. 
+
 
 ### 🎮 Jira / Trello  
 (Explique como essas ferramentas auxiliam na organização e acompanhamento de tarefas.)
