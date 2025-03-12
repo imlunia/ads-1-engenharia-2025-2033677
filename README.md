@@ -56,4 +56,24 @@ Ambos são plataformas de hospedagm de código-fonte, fornecendo repositórios c
 
 
 ### 🎮 Jira / Trello  
-(Explique como essas ferramentas auxiliam na organização e acompanhamento de tarefas.)
+O software de gerenciamento de tarefas aumenta a produtividade, a colaboração e a eficiência. Ele fornece uma abordagem estruturada e organizada para gerenciar objetivos e projetos de trabalho. Alguns dos principais benefícios do software de gerenciamento de tarefas incluem:
+
+ **Empresa**
+
+O gerenciamento de tarefas ajuda as equipes a estruturar tarefas dividindo projetos maiores em partes menores e mais gerenciáveis. As equipes fornecerão informações detalhadas para cada tarefa, juntamente com as partes interessadas, dependências e prazos designados. Isso cria maior clareza e compreensão entre os membros da equipe.
+
+ **Colaboração em tempo real**
+
+O gerenciamento de tarefas facilita a comunicação perfeita e o trabalho em equipe, fornecendo uma estrutura para colaboração. As ferramentas de gerenciamento de tarefas simplificam os fluxos de trabalho da equipe oferecendo detalhes precisos, facilitando atualizações em tempo real, permitindo discussões específicas sobre tarefas e apoiando a colaboração.
+
+ **Acompanhamento da tarefa**
+
+As equipes podem monitorar e gerenciar o tempo e o esforço gastos em cada tarefa com ferramentas de controle de tempo, estimativa de tempo, priorização de tarefas e atualizações regulares de progresso. Um template de acompanhamento de tarefas pode ajudar as equipes a concluir projetos dentro do prazo designado.
+
+ **Visibilidade**
+
+O gerenciamento de tarefas fornece aos membros da equipe uma visão clara sobre o progresso das tarefas e o status geral do projeto. Isso inclui atribuir responsabilidades às tarefas, promover a responsabilidade com um rastreador de tarefas pessoal e fornecer atualizações de status. A utilização de ferramentas visuais de acompanhamento do progresso, a definição de cronogramas e prazos concretos e a centralização das informações fornecem às equipes a transparência necessária para manter os projetos sob controle.
+
+ **Visibilidade**
+
+O gerenciamento de tarefas fornece aos membros da equipe uma visão clara sobre o progresso das tarefas e o status geral do projeto. Isso inclui atribuir responsabilidades às tarefas, promover a responsabilidade com um rastreador de tarefas pessoal e fornecer atualizações de status. A utilização de ferramentas visuais de acompanhamento do progresso, a definição de cronogramas e prazos concretos e a centralização das informações fornecem às equipes a transparência necessária para manter os projetos sob controle.
