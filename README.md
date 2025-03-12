@@ -1,7 +1,7 @@
 # 📚 Diário de Engenharia de Software - {Lara Regina Berto Zanata}
 
 ## 🔍 Introdução às Metodologias de Desenvolvimento de Software  
-(Escreva aqui um breve resumo sobre a importância das metodologias no desenvolvimento de software.)
+As metodologias de desenvolvimento de software são importantes porque orientam a criação de softwares de forma organizada, eficiente e de qualidade. Elas também ajudam a evitar problemas, atrasos e erros. 
 
 ## 📖 Metodologias Tradicionais  
 ### 🛠️ Cascata  
