@@ -4,8 +4,9 @@
 As metodologias de desenvolvimento de software são importantes porque orientam a criação de softwares de forma organizada, eficiente e de qualidade. Elas também ajudam a evitar problemas, atrasos e erros. 
 
 ## 📖 Metodologias Tradicionais  
-### 🛠️ Cascata  
-(Explique brevemente o modelo Cascata e suas características.)
+### 🛠️ Cascata  O modelo em cascata é uma **metodologia de gestão de projetos que divide o trabalho em fases sequenciais**. É uma abordagem linear, onde cada etapa depende da anterior para avançar. 
+
+![image.png](attachment:601087b2-2dfc-4b4a-b3c9-f1159e30e313:image.png)
 
 ### 🌐 Espiral  
 (Explique o modelo Espiral e como ele funciona.)
